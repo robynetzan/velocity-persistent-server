@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.util.Objects;
 
-@Plugin(id = "velocitypersistentserver", name = "Velocity Persistent Server", version = "0.1.0-SNAPSHOT",
+@Plugin(id = "velocitypersistentserver", name = "Velocity Persistent Server", version = "1.0",
         url = "https://www.rtz.cool", description = "I did it!", authors = {"robynetzan"})
 public class PersistentServer {
     public static ProxyServer server;
